@@ -1,0 +1,15 @@
+# Site settings
+title: Daniel Cavalcante
+email: danielcdesouza@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Olá eu sou Daniel Cavalcante, este é o meu blog pessoal onde irei abordar
+  diversos artigos sobre desenvolvimento de software. Espero que possa encontrar
+  artigos que te auxiliem com problemas diários.
+baseurl: "/danielcdesouza"
+exclude: ['README.md']
+url: "www.danielcdesouza.com.br"
+twitter_username: danielcdesouza
+github_username: DanielCavalcante
+
+# Build settings
+markdown: kramdown
