@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog!"
+title:  "Hello World!"
 date:   2015-09-09 20:01:27
 categories: ruby rails
 ---
