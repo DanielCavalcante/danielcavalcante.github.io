@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to blog!"
-date:   2015-08-23 11:06:27
+date:   2015-09-09 20:01:27
 categories: ruby rails
 ---
 Galera, sejam bem vindos ao meu blog!
