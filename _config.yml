@@ -5,11 +5,30 @@ description: >
   Olá eu sou Daniel Cavalcante, este é o meu blog pessoal onde irei abordar
   diversos artigos sobre desenvolvimento de software. Espero que possa encontrar
   artigos que te auxiliem com problemas diários.
-baseurl: "/danielcdesouza"
+baseurl: "/"
 exclude: ['README.md']
+domain_name: 'http://danielcdesouza.com.br'
 url: "www.danielcdesouza.com.br"
 twitter_username: danielcdesouza
 github_username: DanielCavalcante
 
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+            disqus: true
+
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
