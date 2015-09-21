@@ -25,7 +25,7 @@ Segue também um guia de vinte minutos que abrange muita parte prática, onde vo
 
 Recomendo também além da documentação, praticar os exemplos do try ruby, é uma plataforma rica em exemplos e é totalmente mão na massa (que pra mim é a melhor maneira de se aprender a programar).
 <br />
-[Try Ruby](www.tryruby.org)
+[Try Ruby](http://tryruby.org)
 
 E por fim, segue uma lista de livros que te recomendo a leitura.
 
