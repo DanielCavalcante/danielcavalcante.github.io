@@ -16,6 +16,7 @@ A linguagem foi criada pelo japonês Yukihiro Matsumoto (Matz), no ano de 1993, 
 Agora que sabemos o que é a linguagem, vamos ao caminho das pedras. Eu particularmente sempre gostei de aprender linguagens pela documentação e por livros, e nisso posso garantir, a documentação da linguagem é rica em exemplos e tutoriais. Nela temos alguns idiomas disponíveis, incluindo português.
 <br />
 [Documentação-ptBR](https://www.ruby-lang.org/pt/)
+<br />
 [Documentação-EN](https://www.ruby-lang.org/en/)
 
 Segue também um guia de vinte minutos que abrange muita parte prática, onde você pode seguir e implementar os exemplos para uma melhor absorção do que a linguagem pode te oferecer.
@@ -29,6 +30,7 @@ Recomendo também além da documentação, praticar os exemplos do try ruby, é 
 E por fim, segue uma lista de livros que te recomendo a leitura.
 
 Eu gosto bastante do ebook escrito pelo Nando Vieira, mesmo que ele ainda esteja incompleto. Nele temos vários exemplos e muito código. E o diferencial dele é ter sido escrito em português e também por ser gratuito.
+<br />
 [Livro 1](http://howtocode.com.br/ebooks/ruby)
 
 Outro livro muito bom é o da Casa do código. Esse já é pago, mas claro que este foi finalizado e temos a versão impressa também.
@@ -36,4 +38,5 @@ Outro livro muito bom é o da Casa do código. Esse já é pago, mas claro que e
 [Livro 2](http://www.casadocodigo.com.br/products/livro-ruby)
 
 E por último e não menos importante, segue o link de um livro que [Maurício Linhares](https://mauricio.github.io/) me indicou a bastante tempo, e vejo que mesmo depois de tanto tempo esse livro continua sendo um dos melhores da linguagem, se não o melhor.
+<br />
 [Livro 3](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
