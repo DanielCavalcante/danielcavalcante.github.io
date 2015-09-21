@@ -13,7 +13,7 @@ Antes de compartilhar os links sobre a linguagem, queria fazer um breve resumo d
 O Ruby é uma linguagem de programação *interpretada* e *dinâmica*. Sua sintaxe é extremamente elegante, o que facilita a leitura e escrita de códigos.
 A linguagem foi criada pelo japonês Yukihiro Matsumoto (Matz), no ano de 1993, mas a linguagem só foi lançada de forma oficial em 1995. Matz pegou como exemplo partes das linguagens de programação que tinha mais familiaridade (Perl, Smalltalk, Eiffel e Lisp) para criar uma linguagem mais poderosa que Perl e mais orientada a objetos que Python, segundo as suas palavras.
 
-Agora que sabemos o que é a linguagem, vamos ao caminho das pedras. Eu particularmente sempre gostei de aprender linguagens pela documentação e por livros, e nisso te garanto, a documentação da linguagem é rica em exemplos e tutoriais. Nela temos alguns idiomas disponíveis, incluindo português.
+Agora que sabemos o que é a linguagem, vamos ao caminho das pedras. Eu particularmente sempre gostei de aprender linguagens pela documentação e por livros, e nisso posso garantir, a documentação da linguagem é rica em exemplos e tutoriais. Nela temos alguns idiomas disponíveis, incluindo português.
 <br />
 [Documentação-ptBR](https://www.ruby-lang.org/pt/)
 [Documentação-EN](https://www.ruby-lang.org/en/)
